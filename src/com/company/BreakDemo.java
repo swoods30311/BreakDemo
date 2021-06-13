@@ -5,8 +5,7 @@ class BreakDemo {
                 { 32, 87, 3, 589,
                         12, 1076, 2000,
                         8, 622, 127 };
-        int searchfor = 12;
-
+        int searchfor = 1076;
         int i;
         boolean foundIt = false;
 
